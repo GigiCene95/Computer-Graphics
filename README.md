@@ -15,4 +15,7 @@ Abbiamo creato tutto da zero, grazie anche all'utilizzo di tavolette grafiche e 
   * scrivania
   * piante
   
- Il computer invece è stato preso da internet perchè ci riusciva difficile creare un oggetto simile che potesse convicerci.
+Il computer invece è stato scricato da internet perchè ci riusciva difficile creare un oggetto simile che potesse convicerci.
+Durante lo sviluppo di luxo, abbiamo anche implementato una fisica riguardante la lampada e le palle rimbalzanti, nel particolare ci siamo soffermati soprattutto sullo studio di ombre e luci creando una scena che potesse convincerci anche sotto quel punto di vista.
+ 
+ 
