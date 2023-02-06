@@ -14,4 +14,5 @@ Abbiamo creato tutto da zero, grazie anche all'utilizzo di tavolette grafiche e 
   * background
   * scrivania
   * piante
+  
  Il computer invece è stato preso da internet perchè ci riusciva difficile creare un oggetto simile che potesse convicerci.
